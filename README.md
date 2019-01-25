@@ -21,11 +21,11 @@ This repo helps me to learn how to use git.
 
 ## Recommended Resources
 
-1.[CodeAcademy] -(https://www.codecademy.com/) : Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
+1. CodeAcademy -(https://www.codecademy.com/) : Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
 
-2. [CourseEra] - (https://www.coursera.org/) : Coursera is an online learning platform founded by Stanford professors that offers courses, specializations, and degrees.
+2. CourseEra] - (https://www.coursera.org/) : Coursera is an online learning platform founded by Stanford professors that offers courses, specializations, and degrees.
 
-3. [Udacity] - (https://www.udacity.com/) : Udacity is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses.
+3. Udacity - (https://www.udacity.com/) : Udacity is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses.
 
 ## Contributors
 
