@@ -8,6 +8,12 @@ I'm from Hyderabad, India.I completed my under graduation in 2016 in information
 - [Webpage](https://profcase.github.io/working-with-markdown/)
 - [Source](https://github.com/profcase/working-with-markdown )
 
-##About
+## About
 This repo helps me to learn how to use git.
+
+## Recommended Tools 
+
+## Recommended Resources
+
+## Contributors
 
