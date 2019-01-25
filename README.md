@@ -29,7 +29,7 @@ This repo helps me to learn how to use git.
 
 ## Contributors
 
-I'm Sravya Katpally pursuing Masters in Applied Computer Science in North West Missouri State University.
+I'm Sravya Katpally, pursuing Masters in Applied Computer Science in North West Missouri State University.
 
 ![vscode image](https://github.com/SravyaKatpally/Sravya/raw/master/Image.jpeg)
 
