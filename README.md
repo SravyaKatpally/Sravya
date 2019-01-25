@@ -21,13 +21,13 @@ This repo helps me to learn how to use git.
 
 ## Recommended Resources
 
-1.[MicrosoftLearning] -(https://www.microsoft.com/en-us/learning/training.aspx) : A Microsoft Certification validates your expertise in a Microsoft technology. 
+1.[CodeAcademy] -(https://www.codecademy.com/) : Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
 
 2. [CourseEra] - (https://www.coursera.org/) : Coursera is an online learning platform founded by Stanford professors that offers courses, specializations, and degrees.
 
-3. []
+3. [Udacity] - (https://www.udacity.com/) : Udacity is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses.
 
 ## Contributors
 
-I'm Sravya Katpally pursuing Applied computer science in North West Missouri State University.
+I'm Sravya Katpally pursuing Masters in Applied Computer Science in North West Missouri State University.
 
