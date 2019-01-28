@@ -6,7 +6,7 @@ I'm from Hyderabad, India.I completed my under graduation in 2016 in information
 ## Repository Links
 
 - [Webpage](https://github.com/SravyaKatpally/Sravya)
-- [Source](https://github.com/profcase/working-with-markdown )
+- [Source](https://github.com/SravyaKatpally/Sravya/blob/master/README.md )
 
 ## About
 This repo helps me to learn how to use git.
