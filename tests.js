@@ -43,10 +43,10 @@ QUnit.test("Here's a test that should always pass", function (assert) {
     assert.ok(1 == "1", "1=1 success!");
 });
 
-QUnit.test('Testing our pointCal function with four sets of inputs', function (assert) {
-    assert.strictEqual(multiply(2,2), 4, "Positive");
-    assert.strictEqual(multiply(4,2), 8, "Poitive");
-    assert.strictEqual(multiply(1,-1), -1, "Negative");
-    assert.strictEqual(multiply(0,1), 0, "Zero");
-    assert.strictEqual(multiply(0,0), 0, "Zero");
+QUnit.test('Testing our pointCal function with five sets of inputs', function (assert) {
+    assert.strictEqual(addition(2,2,4), 8, "Positive");
+    assert.strictEqual(addition(4,2,4), 10, "Poitive");
+    assert.strictEqual(addition(0,-1,0), -1, "Negative");
+    assert.strictEqual(addition(0,1,4), 5, "Positive");
+    assert.strictEqual(addition(0,0,0), 0, "Zero");
 });

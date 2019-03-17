@@ -2,13 +2,14 @@ $(document).ready(function(){
     $("button").click(function(){
         var a = $('#num1').val();
         var b = $('#num2').val();
-let mul = multiply(a,b);
-alert("Multiplication of number 1 and number 2 gives "+mul);
+        var c = $('#num3').val();
+let add = addition(a,b,c);
+alert("addition of 3 nums is "+add);
 
     });
   });
 
 
-function multiply(x,y) {
-    return parseInt(x)*parseInt(y);
+function addition(x,y,z) {
+    return parseInt(x)+parseInt(y)+parseInt(y);
 }
